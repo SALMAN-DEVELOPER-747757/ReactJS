@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+
+}
+h1{
+    background-color:rgb(132, 137, 137);
+    width: fit-content;
+    font-size:100px ;
+    padding: 10px 80px;
+    border: 5px;
+    margin: 10px;
+}
