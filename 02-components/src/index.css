@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+
+}
+.card{
+  background-color: red;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  color: aqua;
+}
+.nav{
+  background-color: yellow;
+  padding: 20px;
+  margin-top: 10px;
+}
